@@ -1,0 +1,16 @@
+Óra első felében, ezek a kérdések voltak:
+1, Mi a különbség a metódus túlterhelése és felülírása között?
+2, Miért nem lehet két metódust csak a visszatérési típusuk alapján megkülönböztetni?
+3, Miért nem példányosítható közvetlenül egy abstract class?
+4, Mikor válasszunk interface-t abstract class helyett?
+5, Mi a különbség egy public set és egy private set property között?
+6, Milyen kapcsolat van a Customer és a BankAccount osztály között, és ez miben más, mint a Kutya és az Állat közötti kapcsolat?
+7, Mi történik, ha egy leszármazott osztály konstruktora nem hívja meg explicit módon a base(...)-t?
+8, Mi történik, ha egy kétértelmű túlterhelt metódust hívunk meg úgy, hogy a fordító nem tudja eldönteni, melyik változatot szeretnénk?
+9, Mi a különbség a protected és a private láthatóság között?
+10, Miért rossz ötlet, hogy a Customer osztály örököl a BankAccount-ból? Mi lenne a jobb megoldás?
+
+-Pénteken c#ból és database ből tz. Minden papírból.
+
+Óra második részében az alábbi project:
+https://olajos-marton.github.io/tananyagok/13-evfolyam/asztali-mobil/halado-oop/mediatar-projekt/#a-m%C3%A9r%C5%91lap
